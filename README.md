@@ -1,0 +1,2 @@
+# smad
+GitHub Pages
