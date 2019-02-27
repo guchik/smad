@@ -43,8 +43,9 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
+    "mbrsite": "mbrsite://%7B%22id%22%3A24029%2C%22domain%22%3A%22smadja.mobirisesite.com%22%7D",
     "uniqCompNum": 3,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.6.2",
     "screenshot": "screenshot.png"
   },
   "pages": {
